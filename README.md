@@ -4,7 +4,7 @@ A simple and elegant WPF application to start a countdown timer with minute and 
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 ![UI](https://img.shields.io/badge/UI-WPF-informational)
 
 ---
