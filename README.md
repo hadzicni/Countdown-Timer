@@ -32,8 +32,8 @@ A simple and elegant WPF application to start a countdown timer with minute and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hadzicni/Countdown-Timer.git
-   cd Countdown-Timer
+   git clone https://github.com/hadzicni/countdown-timer.git
+   cd countdown-timer
    ```
 
 2. Open `CountdownTimer.csproj` or the full solution in Visual Studio.
