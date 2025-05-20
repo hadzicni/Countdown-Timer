@@ -40,9 +40,7 @@ A simple and elegant WPF application to start a countdown timer with minute and 
 
 3. Press `F5` or click **Start** to run.
 
----
-
-### 🛠️ Manual CLI Build
+### 🛠️ Build via CLI
 
 ```bash
 dotnet build
